@@ -1,0 +1,11 @@
+Laura Iara Silva Santos Xavier - 734661
+
+5. a) “PUC-Minas” = 50 55 43 2D 4D 69 6E 61 73 (16_ASCII)
+
+b) “2021-2” = 32 30 32 31 2D 32 (16_ASCII)
+
+c) “Belo Horizonte = 42 65 6C 6F 20 48 6F 72 69 7A 6F 6E 74 65 (2_ASCII)
+
+d) 124141162144 145 (8) = Tarde (ASCII)
+
+e) 42 2E 48 74 65 2E (16) = B.Hte. (ASCII)
