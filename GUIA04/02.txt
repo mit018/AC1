@@ -1,0 +1,20 @@
+Laura Iara Silva Santos Xavier - 734661
+
+2.
+a)
+	x' • (x + y') = (x' • x) + (x' • y') = (x + y)'
+
+
+b)
+	(x + y') + (x • y)
+
+c)
+	(x • y')' • (x + y) = (x' + y) • (x + y) = y + (x' • x) = y
+
+d)
+	(x' • y)' + (x' + y)' = (x + y') + (x • y')
+
+e)
+	(y + x')' • (y + x') = 0
+	
+	
