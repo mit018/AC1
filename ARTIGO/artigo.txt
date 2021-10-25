@@ -1,0 +1,55 @@
+ARTIGO CIENTÍFICO
+Laura Iara Silva Santos Xavier - 734661
+
+3. ASIC (Application Specific IC): ASICs ou CIs customizados são utilizados processos de fabricação e implementação de tarefas específicas,
+consequentemente gera altos custos de projeto e necessita de um longo tempo de desenvolvimento.
+
+ASSP (Application Specific Standard Product): Circuito integrado voltado à implementaço de funções específicas para um amplo mercado.
+
+SPLD (Simple Programmable Logic Device): Categoria que aborda pequenos PLDs, como PLAs e PALs, e tem como principais características um baixo 
+custo e alto desempenho.
+
+CPLD (Complex Programmable Logic Device): Integra de múltiplos SPLDs em um único chip, com interconexão programável para cada bloco de SPLD. 
+Tem como principais características um baixo custo e alta velocidade, porém é uma arquitetura de difícil compreensão em maiores densidades.
+
+SOC (System on a chip): Microchip que integra majoritariamente (ou todos) os componentes de um computador ou algum sistema eletrônico. 
+
+FPGA (Field Programmable Gate Array): Arranjo de células configuráveis contido em um único chip, com cada célula tendo capacidade computacional
+para implementar funções lógicas ou realizar comunicação com outras células, podendo acontecer simultaneamente no arranjo.
+
+
+4.  --------------------------------------------------------------------------------------------------------------------------------
+    | SIGLA |          SIGNIFICADO          |                    DESCRIÇÃO                        |          DESVANTAGENS          |
+    |-------|-------------------------------|-----------------------------------------------------|--------------------------------| 
+    |       |                               | Primeiro tipo de chip programável pelo usuário.     | Implementa circuitos lógicos   |
+    | PROM  | Programmable read-only memory | Possui linhas de endereço como entrada do circuito  | ineficientes.                  |
+    |       |                               | e linhas de dados como saída.                       |                                |
+    |-------|-------------------------------|-----------------------------------------------------|--------------------------------| 
+    |       |                               | Adequado para implementações de funções lógicas     | Possui alto custo de fabricaço |
+    |       |                               | na forma de soma de produtos.                       | e significativos atrasos de    |
+    |  PLA  |   Programmable logic arrays   | Possui muitas entradas.                             | propagaço de sinais elétricos. |
+    |       |                               | Níveis diferentes de portas lógicas programáveis    |                                |
+    |       |                               | (wired-AND e wired-OR).                             |                                |
+    |-------|-------------------------------|-----------------------------------------------------|--------------------------------| 
+    |  PAL  |   Programmable Array Logic    | Baixo custo e alto desempenho.                      | Não é reprogramável.           |
+    |       |                               | Base para arquiteturas mais sofisticadas.           |                                |
+    --------------------------------------------------------------------------------------------------------------------------------
+
+
+5.  --------------------------------------------------------------------------------------------------------------------------------
+    | SIGLA |          SIGNIFICADO          |                    DESCRIÇÃO                        |          DESVANTAGENS          |
+    |-------|-------------------------------|-----------------------------------------------------|--------------------------------| 
+    |       |                               | Multiplos SPLDs integrados em um único chip         | Arquitetura de difícil         |
+    | CPLD  |      Complex Programmable     | com interconexсo programável entre blocos SPLD.     | extensão para maiores          |
+    |       |          Logic Device         | Possui baixo custo e alta velocidade.               | densidades.                    |
+    |-------|-------------------------------|-----------------------------------------------------|--------------------------------| 
+    |       |                               | Grande arranjo de células configuráveis             | Possui alto custo em projetos  |
+    |       |                               | (blocos lógicos) contidos em um chip.               | pequenos.                      |
+    | FPGA  | Field-programmable Gate Array | Cada célula possui a capacidade de implementar      | Não possui capacidade de usar  |
+    |       |                               | funções lógicas e de comunicar com outras células.  | recursos analógicos.           |
+    |       |                               | Chaves programáveis que permitem conectar os blocos |                                |
+    |       |                               | lógicos de maneira conveniente, de acordo com as    |                                |
+    |       |                               | necessidades de cada projeto.                       |                                |
+    --------------------------------------------------------------------------------------------------------------------------------
+
+
